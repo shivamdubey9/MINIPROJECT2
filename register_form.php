@@ -50,7 +50,7 @@ if(isset($_POST['submit'])){
    
 <div class="form-container">
 
-   <form action="index.html" method="post">
+   <form action="home.html" method="post">
       <h3>register now</h3>
       <?php
       if(isset($error)){
